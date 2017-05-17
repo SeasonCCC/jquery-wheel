@@ -2,7 +2,7 @@
 
 ## 简介
 
-Jquery-wheel插件用于创建转盘
+Jquery-wheel插件用于创建转盘，jquery版本在1.11.1以上
 
 
 
