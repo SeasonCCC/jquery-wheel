@@ -63,7 +63,7 @@
 
 	// 私有函数
 	function adjustHeight(that){
-		that.find(that.wheelBody).css('height', that.find(that.wheelBody).css('width'));
+		// that.find(that.wheelBody).css('height', that.find(that.wheelBody).css('width'));
 		that.find(that.wheelSmall).css('height', that.find(that.wheelSmall).css('width'));
 	}
 
